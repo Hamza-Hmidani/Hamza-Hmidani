@@ -77,7 +77,6 @@ I am a Full Stack Developer based in Fes, Morocco, with a background in Computer
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Hmidani&show_icons=true&hide_rank=true&bg_color=071A2F&title_color=0EA5E9&text_color=E2E8F0&icon_color=22C55E&border_color=0EA5E9" alt="Hamza GitHub stats" height="180">
   <img src="https://streak-stats.demolab.com?user=Hamza-Hmidani&background=071A2F&ring=0EA5E9&fire=22C55E&currStreakLabel=38BDF8&sideNums=E2E8F0&sideLabels=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&border=0EA5E9" alt="Hamza GitHub streak" height="180">
 </p>
 
