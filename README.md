@@ -74,59 +74,6 @@ I am a Full Stack Developer based in Fes, Morocco, with a background in Computer
 ![Android Studio](https://img.shields.io/badge/Android_Studio-0F172A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 ![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=white)
 
-## Featured Projects
-
-### Hotel Management System
-
-Preview: add a screenshot at `./assets/projects/hotel-management-system.png`
-
-A complete hotel reservation and management platform designed to streamline room booking, customer management, and operational workflows.
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0B223D?style=flat-square&logo=mysql&logoColor=white)
-
-- GitHub: [Repository](#)
-- Demo: [Live Demo](#)
-
-### Car Rental Platform
-
-Preview: add a screenshot at `./assets/projects/car-rental-platform.png`
-
-A full-stack car rental application with vehicle listings, booking workflows, and user management features.
-
-![MongoDB](https://img.shields.io/badge/MongoDB-052E16?style=flat-square&logo=mongodb&logoColor=22C55E)
-![Express](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js&logoColor=22C55E)
-
-- GitHub: [Repository](#)
-- Demo: [Live Demo](#)
-
-### Healthcare Mobile Application
-
-Preview: add a screenshot at `./assets/projects/healthcare-mobile-application.png`
-
-An Android mobile application for healthcare cabinet management, built to simplify patient tracking and daily clinic operations.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-0F172A?style=flat-square&logo=androidstudio&logoColor=3DDC84)
-
-- GitHub: [Repository](#)
-- Demo: [Live Demo](#)
-
-### Personal Portfolio
-
-Preview: add a screenshot at `./assets/projects/personal-portfolio.png`
-
-A personal developer portfolio website focused on presenting projects, technical skills, and professional identity in a clean modern layout.
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-
-- GitHub: [Repository](#)
-- Demo: [Live Demo](#)
-
 ## GitHub Statistics
 
 <p align="center">
