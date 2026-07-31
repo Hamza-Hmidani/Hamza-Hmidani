@@ -77,12 +77,12 @@ I am a Full Stack Developer based in Fes, Morocco, with a background in Computer
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://your-vercel-app.vercel.app/api?username=Hamza-Hmidani&show_icons=true&hide_rank=true&bg_color=071A2F&title_color=0EA5E9&text_color=E2E8F0&icon_color=22C55E&border_color=0EA5E9" alt="Hamza GitHub stats" height="180">
+  <img src="https://Hmidani-Hamza.app.vercel.app/api?username=Hamza-Hmidani&show_icons=true&hide_rank=true&bg_color=071A2F&title_color=0EA5E9&text_color=E2E8F0&icon_color=22C55E&border_color=0EA5E9" alt="Hamza GitHub stats" height="180">
   <img src="https://streak-stats.demolab.com?user=Hamza-Hmidani&background=071A2F&ring=0EA5E9&fire=22C55E&currStreakLabel=38BDF8&sideNums=E2E8F0&sideLabels=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&border=0EA5E9" alt="Hamza GitHub streak" height="180">
 </p>
 
 <p align="center">
-  <img src="https://your-vercel-app.vercel.app/api/top-langs/?username=Hamza-Hmidani&layout=compact&bg_color=071A2F&title_color=0EA5E9&text_color=E2E8F0&border_color=0EA5E9" alt="Hamza top languages" height="180">
+  <img src="https://Hamza-Hmidani.app.vercel.app/api/top-langs/?username=Hamza-Hmidani&layout=compact&bg_color=071A2F&title_color=0EA5E9&text_color=E2E8F0&border_color=0EA5E9" alt="Hamza top languages" height="180">
 </p>
 
 Rank is intentionally hidden because it is not representative for new developers and early-career profiles. Recruiters get more value from projects, consistency, and technical direction than from a computed rank badge.
