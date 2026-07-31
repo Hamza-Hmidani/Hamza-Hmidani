@@ -1,0 +1,5 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="220" rx="20" fill="#071A2F"/>
+<text x="40" y="96" fill="#E2E8F0" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Contribution snake placeholder</text>
+<text x="40" y="136" fill="#E2E8F0" opacity="0.75" font-size="18" font-family="Segoe UI, Arial, sans-serif">Run the GitHub Actions workflow to generate the final snake SVG automatically.</text>
+</svg>
