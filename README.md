@@ -19,7 +19,7 @@
   <a href="https://hmidani-hamza.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Website-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge">
   </a>
-  <a href="#contact">
+  <a href="mailto:hamzahmidani05@gmail.com">
     <img src="https://img.shields.io/badge/Email-ADD%20EMAIL-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
   </a>
 </p>
@@ -153,60 +153,5 @@ Rank is intentionally hidden because it is not representative for new developers
 - LinkedIn: [hamza-hmidani-395b1b382](https://www.linkedin.com/in/hamza-hmidani-395b1b382/)
 - Portfolio: [hmidani-hamza.vercel.app](https://hmidani-hamza.vercel.app/)
 - GitHub: [Hamza-Hmidani](https://github.com/Hamza-Hmidani)
-- Email: `[ADD EMAIL]`
+- Email: `hamzahmidani)5@gmail.com`
 - Location: `Fes, Morocco`
-
-## Setup Instructions
-
-### 1. Create the profile repository
-
-Create a public repository named exactly `Hamza-Hmidani`, then upload these files:
-
-- `README.md`
-- `assets/banner-dark.svg`
-- `assets/banner-light.svg`
-- `.github/workflows/snake.yml`
-
-### 2. Replace the remaining placeholders
-
-Update these values before publishing:
-
-- Replace `ADD EMAIL` in the social badge and contact section
-- Replace each project repository link
-- Replace each live demo link
-- Add project screenshots if you want visual previews under `./assets/projects/`
-
-### 3. Deploy GitHub Readme Stats on Vercel
-
-1. Fork `anuraghazra/github-readme-stats`
-2. Import the fork into Vercel
-3. Add the environment variable `PAT_1` with a GitHub Personal Access Token
-4. Connect the Vercel project to your GitHub account
-5. Redeploy the project
-
-### 4. Use these final stats URLs
-
-Replace `your-vercel-app.vercel.app` with your real Vercel domain:
-
-```text
-https://your-vercel-app.vercel.app/api?username=Hamza-Hmidani&show_icons=true&hide_rank=true&bg_color=071A2F&title_color=0EA5E9&text_color=E2E8F0&icon_color=22C55E&border_color=0EA5E9
-
-https://your-vercel-app.vercel.app/api/top-langs/?username=Hamza-Hmidani&layout=compact&bg_color=071A2F&title_color=0EA5E9&text_color=E2E8F0&border_color=0EA5E9
-
-https://streak-stats.demolab.com?user=Hamza-Hmidani&background=071A2F&ring=0EA5E9&fire=22C55E&currStreakLabel=38BDF8&sideNums=E2E8F0&sideLabels=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&border=0EA5E9
-```
-
-### 5. Enable the contribution snake
-
-1. Push the repository to GitHub
-2. Open the `Actions` tab and enable workflows
-3. Run the `Generate Contribution Snake` workflow manually once
-4. The workflow will then keep the snake updated every 12 hours
-
-## Optimization Recommendations
-
-- Keep the README headline short and role-focused for recruiter readability
-- Replace placeholder project links with real repositories as soon as possible
-- Add one clean screenshot per project to improve scan speed
-- Pin your best 4 to 6 repositories on your GitHub profile
-- Keep your portfolio and LinkedIn aligned with the same title and objective
